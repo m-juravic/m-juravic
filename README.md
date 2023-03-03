@@ -7,9 +7,8 @@
 
 &nbsp;
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-juravic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> -->
 
-![Maria's Github Stats](https://github-readme-stats.vercel.app/api?username=m-juravic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=cobalt)
+![Maria's Github Stats](https://github-readme-stats.vercel.app/api?username=m-juravic&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=cobalt&hide=prs,issues)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-juravic&hide_progress=true&theme=cobalt)
